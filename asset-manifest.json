@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/MoscowBomber/static/css/main.7acaea2f.css",
-    "main.js": "/MoscowBomber/static/js/main.07d3183d.js",
+    "main.css": "/MoscowBomber/static/css/main.9915e242.css",
+    "main.js": "/MoscowBomber/static/js/main.187513d4.js",
     "index.html": "/MoscowBomber/index.html",
-    "main.7acaea2f.css.map": "/MoscowBomber/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/MoscowBomber/static/js/main.07d3183d.js.map"
+    "main.9915e242.css.map": "/MoscowBomber/static/css/main.9915e242.css.map",
+    "main.187513d4.js.map": "/MoscowBomber/static/js/main.187513d4.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.9915e242.css",
+    "static/js/main.187513d4.js"
   ]
 }
