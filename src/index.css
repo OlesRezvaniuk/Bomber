@@ -7,9 +7,45 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: grey;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+
+.white::after {
+  content: '';
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: white;
+}
+.black::after {
+  content: '';
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: black;
+}
+
+.active-start::before {
+  content: '';
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: rgba(0, 128, 0, 0.418);
+}
+
+.variant {
+  border: 3px solid green;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
 }
